@@ -1,3 +1,5 @@
-public class Main {
-    
+public class report {
+    public static void main(String[] args) {
+        
+    }
 }
